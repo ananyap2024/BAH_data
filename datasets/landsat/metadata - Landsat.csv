@@ -1,31 +1,31 @@
-ID,Location,Date,Cloudy %,Type
-1,Guwahati,22/10/2025,0.9,Clear
-2,Guwahati,16/11/2025,2.16,Clear
-3,Guwahati,23/11/2025,8.04,Clear
-4,Guwahati,15/10/2025,10.58,Clear
-5,Guwahati,07/11/2025,11.9,Clear
-6,Guwahati,18/07/2025,73.42,Cloudy
-7,Guwahati,31/10/2025,92.45,Cloudy
-8,Guwahati,19/08/2025,99.93,Cloudy
-9,Guwahati,0,0,Cloudy
-10,Guwahati,0,0,Cloudy
-11,Shillong,22/10/2025,0.9,Clear
-12,Shillong,16/11/2025,2.16,Clear
-13,Shillong,23/11/2025,8.04,Clear
-14,Shillong,15/10/2025,10.58,Clear
-15,Shillong,07/11/2025,119,Clear
-16,Shillong,18/07/2025,73.42,Cloudy
-17,Shillong,31/10/2025,92.45,Cloudy
-18,Shillong,19/08/2025,99.93,Cloudy
-19,Shillong,0,0,Cloudy
-20,Shillong,0,0,Cloudy
-21,Itanagar,09/11/2025,4.6,Clear
-22,Itanagar,15/10/2025,11.73,Clear
-23,Itanagar,16/11/2025,13.19,Clear
-24,Itanagar,25/11/2025,17.02,Clear
-25,Itanagar,09/06/2025,19.79,Clear
-26,Itanagar,08/10/2025,64.46,Cloudy
-27,Itanagar,20/07/2025,69.32,Cloudy
-28,Itanagar,12/08/2025,86.66,Cloudy
-29,Itanagar,06/09/2025,96.24,Cloudy
-30,Itanagar,0,0,Cloudy
+ID,Location,Latitude,Longitute,Resolution,Spectrel Band,Date,Season,Cloudy %,Cloud Type,Land cover Type
+1,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B5",22/10/2025,Post-Monsoon,0.9,Clear,Vegetation + Urban
+2,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B6",16/11/2025,Post-Monsoon,2.16,Clear,Vegetation + Urban
+3,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B7",23/11/2025,Post-Monsoon,8.04,Clear,Vegetation + Urban
+4,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B8",15/10/2025,Post-Monsoon,10.58,Clear,Vegetation + Urban
+5,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B9",07/11/2025,Post-Monsoon,11.9,Clear,Vegetation + Urban
+6,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B10",18/07/2025,Monsoon,73.42,Cloudy,Vegetation + Urban
+7,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B11",31/10/2025,Post-Monsoon,92.45,Cloudy,Vegetation + Urban
+8,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B12",19/08/2025,Monsoon,99.93,Cloudy,Vegetation + Urban
+9,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B13",0,null,0,Cloudy,Vegetation + Urban
+10,Guwahati,26.18,91.69,30m,"SR_B2,SR_B3,SR_B4,SR_B14",0,null,0,Cloudy,Vegetation + Urban
+11,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B15",22/10/2025,Post-Monsoon,0.9,Clear,Forest + Semi Urban
+12,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B16",16/11/2025,Post-Monsoon,2.16,Clear,Forest + Semi Urban
+13,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B17",23/11/2025,Post-Monsoon,8.04,Clear,Forest + Semi Urban
+14,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B18",15/10/2025,Post-Monsoon,10.58,Clear,Forest + Semi Urban
+15,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B19",07/11/2025,Post-Monsoon,119,Clear,Forest + Semi Urban
+16,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B20",18/07/2025,Monsoon,73.42,Cloudy,Forest + Semi Urban
+17,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B21",31/10/2025,Post-Monsoon,92.45,Cloudy,Forest + Semi Urban
+18,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B22",19/08/2025,Monsoon,99.93,Cloudy,Forest + Semi Urban
+19,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B23",0,null,0,Cloudy,Forest + Semi Urban
+20,Shillong,25.57,91.88,30m,"SR_B2,SR_B3,SR_B4,SR_B24",0,null,0,Cloudy,Forest + Semi Urban
+21,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B25",09/11/2025,Post-Monsoon,4.6,Clear,Vegetation + Semi Urban
+22,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B26",15/10/2025,Post-Monsoon,11.73,Clear,Vegetation + Semi Urban
+23,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B27",16/11/2025,Post-Monsoon,13.19,Clear,Vegetation + Semi Urban
+24,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B28",25/11/2025,Post-Monsoon,17.02,Clear,Vegetation + Semi Urban
+25,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B29",09/06/2025,Monsoon,19.79,Clear,Vegetation + Semi Urban
+26,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B30",08/10/2025,Post-Monsoon,64.46,Cloudy,Vegetation + Semi Urban
+27,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B31",20/07/2025,Monsoon,69.32,Cloudy,Vegetation + Semi Urban
+28,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B32",12/08/2025,Monsoon,86.66,Cloudy,Vegetation + Semi Urban
+29,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B33",06/09/2025,Monsoon,96.24,Cloudy,Vegetation + Semi Urban
+30,Itanagar,27.1,93.62,30m,"SR_B2,SR_B3,SR_B4,SR_B34",0,null,0,Cloudy,Vegetation + Semi Urban

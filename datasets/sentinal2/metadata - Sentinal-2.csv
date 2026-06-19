@@ -1,31 +1,31 @@
-ID,Location,Date,Cloudy %,Type
-1,Guwahati,28/11/2025,0.0012,cloudy
-2,Guwahati,26/11/2025,0.0017,cloudy
-3,Guwahati,28/11/2025,0.2705,cloudy
-4,Guwahati,26/11/2025,0.3234,cloudy
-5,Guwahati,16/11/2025,0.3843,cloudy
-6,Guwahati,29/07/2025,62.1592,clear
-7,Guwahati,07/09/2025,64.3661,clear
-8,Guwahati,20/09/2025,68.9842,clear
-9,Guwahati,02/10/2025,70.3434,clear
-10,Guwahati,24/07/2025,70.6147,clear
-11,Shilong,07/09/2025,64.3661,cloudy
-12,Shilong,12/10/2025,65.4807,cloudy
-13,Shilong,24/07/2025,70.6141,cloudy
-14,Shilong,29/07/2025,71.215,cloudy
-15,Shilong,07/10/2025,74.6865,cloudy
-16,Shilong,28/11/2025,0.0012,clear
-17,Shilong,26/11/2025,0.0017,clear
-18,Shilong,16/11/2025,0.3843,clear
-19,Shilong,19/10/2025,1.3225,clear
-20,Shilong,22/10/2025,2.8022,clear
-21,Itanagar,05/08/2025,61.1059,cloudy
-22,Itanagar,07/09/2025,64.3661,cloudy
-23,Itanagar,09/10/2025,64.9666,cloudy
-24,Itanagar,12/10/2025,65.4807,cloudy
-25,Itanagar,13/11/2025,65.7398,cloudy
-26,Itanagar,28/11/2025,0.0012,clear
-27,Itanagar,26/11/2025,0.0017,clear
-28,Itanagar,28/11/2025,0.0235,clear
-29,Itanagar,18/11/2025,0.0507,clear
-30,Itanagar,18/11/2025,0.0659,clear
+ID,Location,Latitude,Longitute,Resolution,Spectrel Band,Date,Season,Cloudy %,Cloud Type,Land cover Type
+1,Guwahati,26.18,91.69,10m,"B2,B3,B4,B8",28/11/2025,Post-Monsoon,0.0012,cloudy,Vegetation + Semi Urban
+2,Guwahati,26.18,91.69,10m,"B2,B3,B4,B9",26/11/2025,Post-Monsoon,0.0017,cloudy,Vegetation + Semi Urban
+3,Guwahati,26.18,91.69,10m,"B2,B3,B4,B10",28/11/2025,Post-Monsoon,0.2705,cloudy,Vegetation + Semi Urban
+4,Guwahati,26.18,91.69,10m,"B2,B3,B4,B11",26/11/2025,Post-Monsoon,0.3234,cloudy,Vegetation + Semi Urban
+5,Guwahati,26.18,91.69,10m,"B2,B3,B4,B12",16/11/2025,Post-Monsoon,0.3843,cloudy,Vegetation + Semi Urban
+6,Guwahati,26.18,91.69,10m,"B2,B3,B4,B13",29/07/2025,Monsoon,62.1592,clear,Vegetation + Semi Urban
+7,Guwahati,26.18,91.69,10m,"B2,B3,B4,B14",07/09/2025,Monsoon,64.3661,clear,Vegetation + Semi Urban
+8,Guwahati,26.18,91.69,10m,"B2,B3,B4,B15",20/09/2025,Monsoon,68.9842,clear,Vegetation + Semi Urban
+9,Guwahati,26.18,91.69,10m,"B2,B3,B4,B16",02/10/2025,Post-Monsoon,70.3434,clear,Vegetation + Semi Urban
+10,Guwahati,26.18,91.69,10m,"B2,B3,B4,B17",24/07/2025,Monsoon,70.6147,clear,Vegetation + Semi Urban
+11,Shillong,25.57,91.88,10m,"B2,B3,B4,B18",07/09/2025,Monsoon,64.3661,cloudy,Urban + Forest
+12,Shillong,25.57,91.88,10m,"B2,B3,B4,B19",12/10/2025,Post-Monsoon,65.4807,cloudy,Urban + Forest
+13,Shillong,25.57,91.88,10m,"B2,B3,B4,B20",24/07/2025,Monsoon,70.6141,cloudy,Urban + Forest
+14,Shillong,25.57,91.88,10m,"B2,B3,B4,B21",29/07/2025,Monsoon,71.215,cloudy,Urban + Forest
+15,Shillong,25.57,91.88,10m,"B2,B3,B4,B22",07/10/2025,Post-Monsoon,74.6865,cloudy,Urban + Forest
+16,Shillong,25.57,91.88,10m,"B2,B3,B4,B23",28/11/2025,Post-Monsoon,0.0012,clear,Urban + Forest
+17,Shillong,25.57,91.88,10m,"B2,B3,B4,B24",26/11/2025,Post-Monsoon,0.0017,clear,Urban + Forest
+18,Shillong,25.57,91.88,10m,"B2,B3,B4,B25",16/11/2025,Post-Monsoon,0.3843,clear,Urban + Forest
+19,Shillong,25.57,91.88,10m,"B2,B3,B4,B26",19/10/2025,Post-Monsoon,1.3225,clear,Urban + Forest
+20,Shillong,25.57,91.88,10m,"B2,B3,B4,B27",22/10/2025,Post-Monsoon,2.8022,clear,Urban + Forest
+21,Itanagar,27.1,93.62,10m,"B2,B3,B4,B28",05/08/2025,Monsoon,61.1059,cloudy,Semi Urban + Forest
+22,Itanagar,27.1,93.62,10m,"B2,B3,B4,B29",07/09/2025,Monsoon,64.3661,cloudy,Semi Urban + Forest
+23,Itanagar,27.1,93.62,10m,"B2,B3,B4,B30",09/10/2025,Post-Monsoon,64.9666,cloudy,Semi Urban + Forest
+24,Itanagar,27.1,93.62,10m,"B2,B3,B4,B31",12/10/2025,Post-Monsoon,65.4807,cloudy,Semi Urban + Forest
+25,Itanagar,27.1,93.62,10m,"B2,B3,B4,B32",13/11/2025,Post-Monsoon,65.7398,cloudy,Semi Urban + Forest
+26,Itanagar,27.1,93.62,10m,"B2,B3,B4,B33",28/11/2025,Post-Monsoon,0.0012,clear,Semi Urban + Forest
+27,Itanagar,27.1,93.62,10m,"B2,B3,B4,B34",26/11/2025,Post-Monsoon,0.0017,clear,Semi Urban + Forest
+28,Itanagar,27.1,93.62,10m,"B2,B3,B4,B35",28/11/2025,Post-Monsoon,0.0235,clear,Semi Urban + Forest
+29,Itanagar,27.1,93.62,10m,"B2,B3,B4,B36",18/11/2025,Post-Monsoon,0.0507,clear,Semi Urban + Forest
+30,Itanagar,27.1,93.62,10m,"B2,B3,B4,B37",18/11/2025,Post-Monsoon,0.0659,clear,Semi Urban + Forest
