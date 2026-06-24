@@ -1,0 +1,33 @@
+ID,Location,Latitude,Longitute,Resolution,Spectral Band,Date,Season,Cloud Type,Land cover Type
+1,Guwahati01,26.08,91.27,10m,VV,2/6/2025,Monsoon,clear1,Agriculture
+2,Guwahati01,26.08,91.27,10m,VV,7/6/2025,Monsoon,clear2,Agriculture
+3,Guwahati02,26.14,91.81,10m,VV,2/6/2025,Monsoon,clear1,Urban
+4,Guwahati02,26.14,91.81,10m,VV,12/6/2025,Monsoon,clear2,Urban
+5,Guwahati03,26.07,91.66,10m,VV,2/6/2025,Monsoon,clear1,Forest
+6,Guwahati03,26.07,91.66,10m,VV,07/06/2025,Monsoon,clear2,Forest
+7,Guwahati04,26.12,91.64,10m,VV,2/6/2025,Monsoon,clear1,Water bodies
+8,Guwahati04,26.12,91.64,10m,VV,07/06/2025,Monsoon,clear2,Water bodies
+9,Shillong01,25.61,91.96,10m,VV,02/06/2025,Monsoon,clear1,Agriculture
+10,Shillong01,25.61,91.96,10m,VV,12/06/2025,Monsoon,clear2,Agriculture
+11,Shillong02,25.57,91.9,10m,VV,02/06/2025,Monsoon,clear1,Urban
+12,Shillong02,25.57,91.9,10m,VV,12/06/2025,Monsoon,clear2,Urban
+13,Shillong03,25.54,91.86,10m,VV,02/06/2025,Monsoon,clear1,Forest
+14,Shillong03,25.54,91.86,10m,VV,12/06/2025,Monsoon,clear2,Forest
+15,Shillong04,25.66,91.89,10m,VV,02/06/2025,Monsoon,clear1,Water bodies
+16,Shillong04,25.66,91.89,10m,VV,12/06/2025,Monsoon,clear2,Water bodies
+17,Itanagar01,27.11,93.58,10m,VV,02/06/2025,Monsoon,clear1,Agriculture
+18,Itanagar01,27.11,93.58,10m,VV,07/06/2025,Monsoon,clear2,Agriculture
+19,Itanagar02,27.08,93.6,10m,VV,02/06/2025,Monsoon,clear1,Urban
+20,Itanagar02,27.08,93.6,10m,VV,07/06/2025,Monsoon,clear2,Urban
+21,Itanagar03,27.14,93.63,10m,VV,02/06/2025,Monsoon,clear1,Forest
+22,Itanagar03,27.14,93.63,10m,VV,07/06/2025,Monsoon,clear2,Forest
+23,Itanagar04,27.12,93.79,10m,VV,02/06/2025,Monsoon,clear1,Water bodies
+24,Itanagar04,27.12,93.79,10m,VV,7/6/2025,Monsoon,clear2,Water bodies
+25,Mizoram01,23.54,93.23,10m,VV,12/6/2025,Monsoon,clear1,Agriculture
+26,Mizoram01,23.54,93.23,10m,VV,24/6/2025,Monsoon,clear2,Agriculture
+27,Mizoram02,23.47,93.33,10m,VV,7/6/2025,Monsoon,clear1,Urban
+28,Mizoram02,23.47,93.33,10m,VV,12/6/2025,Monsoon,clear2,Urban
+29,Mizoram03,22.23,92.97,10m,VV,12/6/2025,Monsoon,clear1,Forest
+30,Mizoram03,22.23,92.97,10m,VV,24/6/2025,Monsoon,clear2,Forest
+31,Mizoram04,22.2,92.89,10m,VV,2/6/25,Monsoon,clear1,Water bodies
+32,Mizoram04,22.2,92.89,10m,VV,12/6/25,Monsoon,clear2,Water bodies

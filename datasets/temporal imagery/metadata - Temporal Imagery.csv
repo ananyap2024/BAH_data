@@ -1,4 +1,4 @@
-ID,Location,Latitude,Longitute,Resolution,Spectrel Band,Date,Season,Cloudy %,Cloud Type,Land cover Type
+ID,Location,Latitude,Longitute,Resolution,Spectral Band,Date,Season,Cloudy %,Cloud Type,Land cover Type
 1,Guwahati,26.18,91.69,10m,"B2,B3,B4,B8",28/11/2025,Post-Monsoon,0.0012,cloudy,Vegetation + Semi Urban
 2,Guwahati,26.18,91.69,10m,"B2,B3,B4,B9",26/11/2025,Post-Monsoon,0.0017,cloudy,Vegetation + Semi Urban
 3,Guwahati,26.18,91.69,10m,"B2,B3,B4,B10",28/11/2025,Post-Monsoon,0.2705,cloudy,Vegetation + Semi Urban
@@ -29,3 +29,13 @@ ID,Location,Latitude,Longitute,Resolution,Spectrel Band,Date,Season,Cloudy %,Clo
 28,Itanagar,27.1,93.62,10m,"B2,B3,B4,B35",28/11/2025,Post-Monsoon,0.0235,clear,Semi Urban + Forest
 29,Itanagar,27.1,93.62,10m,"B2,B3,B4,B36",18/11/2025,Post-Monsoon,0.0507,clear,Semi Urban + Forest
 30,Itanagar,27.1,93.62,10m,"B2,B3,B4,B37",18/11/2025,Post-Monsoon,0.0659,clear,Semi Urban + Forest
+31,Mizoram,23.72,92.71,10m,"B2,B3,B4,B38",29/09/2025,Monsoon,66.311,cloudy,Urban + Vegetation
+32,Mizoram,23.72,92.71,10m,"B2,B3,B4,B39",6/9/25,Monsoon,69.5123,cloudy,Urban + Vegetation
+33,Mizoram,23.72,92.71,10m,"B2,B3,B4,B40",6/7/2025,Monsoon,71.2044,cloudy,Urban + Vegetation
+34,Mizoram,23.72,92.71,10m,"B2,B3,B4,B41",15/08/2025,Monsoon,71.3007,cloudy,Urban + Vegetation
+35,Mizoram,23.72,92.71,10m,"B2,B3,B4,B42",31/07/2025,Monsoon,77.7256,cloudy,Urban + Vegetation
+36,Mizoram,23.72,92.71,10m,"B2,B3,B4,B43",28/11/2025,Post-Monsoon,0,clear,Urban + Vegetation
+37,Mizoram,23.72,92.71,10m,"B2,B3,B4,B44",13/11/25,Post-Monsoon,0.098,clear,Urban + Vegetation
+38,Mizoram,23.72,92.71,10m,"B2,B3,B4,B45",23/11/2025,Post-Monsoon,1.9173,clear,Urban + Vegetation
+39,Mizoram,23.72,92.71,10m,"B2,B3,B4,B46",18/11/2025,Post-Monsoon,1.9106,clear,Urban + Vegetation
+40,Mizoram,23.72,92.71,10m,"B2,B3,B4,B47",08/11/2025,Post-Monsoon,2.9925,clear,Urban + Vegetation

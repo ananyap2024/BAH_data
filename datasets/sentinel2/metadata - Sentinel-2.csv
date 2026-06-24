@@ -1,0 +1,33 @@
+ID,Location,Latitude,Longitute,Resolution,Spectral Band,Date,Season,Cloudy %,Cloud Type,Land cover Type
+1,Guwahati01,26.08,91.27,10m,"B2,B3,B4,B8",7/9/2025,Monsoon,64.3661,cloudy,Agriculture
+2,Guwahati01,26.08,91.27,10m,"B2,B3,B4,B9",20/11/2025,Post-Monsoon,0.0012,clear,Agriculture
+3,Guwahati02,26.14,91.81,10m,"B2,B3,B4,B10",29/7/2025,Monsoon,62.1592,cloudy,Urban
+4,Guwahati02,26.14,91.81,10m,"B2,B3,B4,B11",28/11/2025,Post-Monsoon,0.0012,clear,Urban
+5,Guwahati03,26.07,91.66,10m,"B2,B3,B4,B12",7/9/2025,Monsoon,64.3661,cloudy,Forest
+6,Guwahati03,26.07,91.66,10m,"B2,B3,B4,B13",28/11/2025,Post-Monsoon,0.0012,clear,Forest
+7,Guwahati04,26.12,91.64,10m,"B2,B3,B4,B14",29/07/2025,Monsoon,62.1592,cloudy,Water bodies
+8,Guwahati04,26.12,91.64,10m,"B2,B3,B4,B15",28/11/2025,Post-Monsoon,0.0012,clear,Water bodies
+9,Shillong01,25.61,91.96,10m,"B2,B3,B4,B16",7/9/25,Monsoon,64.3661,cloudy,Agriculture
+10,Shillong01,25.61,91.96,10m,"B2,B3,B4,B17",28/11/2025,Post-Monsoon,0.0012,clear,Agriculture
+11,Shillong02,25.57,91.9,10m,"B2,B3,B4,B18",07/09/2025,Monsoon,64.3661,cloudy,Urban
+12,Shillong02,25.57,91.9,10m,"B2,B3,B4,B19",28/11/2025,Post-Monsoon,0.0012,clear,Urban
+13,Shillong03,25.54,91.86,10m,"B2,B3,B4,B20",07/09/2025,Monsoon,64.3661,cloudy,Forest
+14,Shillong03,25.54,91.86,10m,"B2,B3,B4,B21",28/11/2025,Post-Monsoon,0.0012,clear,Forest
+15,Shillong04,25.66,91.89,10m,"B2,B3,B4,B22",07/09/2025,Monsoon,64.3661,cloudy,Water bodies
+16,Shillong04,25.66,91.89,10m,"B2,B3,B4,B23",28/11/2025,Post-Monsoon,0.0012,clear,Water bodies
+17,Itanagar01,27.11,93.58,10m,"B2,B3,B4,B24",09/10/2025,Post-Monsoon,64.966,cloudy,Agriculture
+18,Itanagar01,27.11,93.58,10m,"B2,B3,B4,B25",28/11/2025,Post-Monsoon,0.0235,clear,Agriculture
+19,Itanagar02,27.08,93.6,10m,"B2,B3,B4,B26",05/08/2025,Monsoon,61.1059,cloudy,Urban
+20,Itanagar02,27.08,93.6,10m,"B2,B3,B4,B27",28/11/2025,Post-Monsoon,0.0235,clear,Urban
+21,Itanagar03,27.14,93.63,10m,"B2,B3,B4,B28",13/11/2025,Post-Monsoon,65.7398,cloudy,Forest
+22,Itanagar03,27.14,93.63,10m,"B2,B3,B4,B29",18/11/2025,Post-Monsoon,0.0659,clear,Forest
+23,Itanagar04,27.12,93.79,10m,"B2,B3,B4,B30",09/10/2025,Post-Monsoon,64.966,cloudy,Water bodies
+24,Itanagar04,27.12,93.79,10m,"B2,B3,B4,B31",28/11/2025,Post-Monsoon,0.0235,clear,Water bodies
+25,Mizoram01,23.54,93.23,10m,"B2,B3,B4,B32",26/9/2025,Monsoon,62.3643,cloudy,Agriculture
+26,Mizoram01,23.54,93.23,10m,"B2,B3,B4,B33",28/11/2025,Post-Monsoon,3.4035,clear,Agriculture
+27,Mizoram02,23.47,93.33,10m,"B2,B3,B4,B34",26/9/2025,Monsoon,62.3643,cloudy,Urban
+28,Mizoram02,23.47,93.33,10m,"B2,B3,B4,B35",28/11/2025,Post-Monsoon,3.4035,clear,Urban
+29,Mizoram03,22.23,92.97,10m,"B2,B3,B4,B36",10/8/2025,Monsoon,60.8276,cloudy,Forest
+30,Mizoram03,22.23,92.97,10m,"B2,B3,B4,B37",28/11/2025,Post-Monsoon,0.0169,clear,Forest
+31,Mizoram04,22.2,92.89,10m,"B2,B3,B4,B38",10/8/25,Monsoon,60.8276,cloudy,Water bodies
+32,Mizoram04,22.2,92.89,10m,"B2,B3,B4,B39",28/11/2025,Post-Monsoon,0.0169,clear,Water bodies

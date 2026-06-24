@@ -1,0 +1,33 @@
+ID,Location,Latitude,Longitute,Resolution,Spectral Band,Date,Season,Cloudy %,Cloud Type,Land cover Type
+1,mizoram01,21.93,92.25,5m - 25m,optical,16/06/2026,Pre-Monsoon,80,cloudy,Agriculture
+2,mizoram01,21.93,92.25,5m - 25m,optical,26/05/2026,Summer,2,clear,Agriculture
+3,mizoram02,28.58,93.48,5m - 25m,optical,16/06/2026,Pre-Monsoon,92,cloudy,Urban
+4,mizoram02,28.58,93.48,5m - 25m,optical,26/05/2026,Summer,8,clear,Urban
+5,mizoram03,23.54,92.45,5m - 25m,optical,30/05/2026,Summer,65,cloudy,Forest
+6,mizoram03,23.54,92.45,5m - 25m,optical,23/05/2026,Summer,1,clear,Forest
+7,mizoram04,24.51,93.43,5m - 25m,optical,04/06/2026,Pre-Monsoon,15,cloudy,Water bodies
+8,mizoram04,24.51,93.43,5m - 25m,optical,26/06/2026,Summer,0.5,clear,Water bodies
+9,Guwahati01,26.13,91.7,5m - 25m,optical,01/05/2026,Summer,70,cloudy,Agriculture
+10,Guwahati01,26.13,91.7,5m - 25m,optical,14/04/2026,Summer,3,clear,Agriculture
+11,Guwahati02,26.14,91.73,5m - 25m,optical,01/06/2026,Summer,70,cloudy,Urban
+12,Guwahati02,26.14,91.73,5m - 25m,optical,14/04/2026,Summer,1,clear,Urban
+13,Guwahati03,26.09,91.74,5m - 25m,optical,01/06/2026,Summer,75,cloudy,Forest
+14,Guwahati03,26.09,91.74,5m - 25m,optical,14/04/2026,Summer,0.3,clear,Forest
+15,Guwahati04,26.11,91.65,5m - 25m,optical,01/05/2026,Summer,85,cloudy,Water bodies
+16,Guwahati04,26.11,91.65,5m - 25m,optical,14/04/2026,Summer,0.6,clear,Water bodies
+17,Shillong01,25.57,91.88,5m - 25m,optical,01/05/2026,Summer,85,cloudy,Agriculture
+18,Shillong01,25.57,91.88,5m - 25m,optical,09/04/2026,Summer,0.2,clear,Agriculture
+19,Shillong02,25.57,91.89,5m - 25m,optical,01/05/2026,Summer,88,cloudy,Urban
+20,Shillong02,25.57,91.89,5m - 25m,optical,08/04/2026,Summer,0.5,clear,Urban
+21,Shillong03,25.53,91.83,5m - 25m,optical,11/06/2026,Pre-Monsoon,55,cloudy,Forest
+22,Shillong03,25.53,91.83,5m - 25m,optical,19/05/2026,Summer,0.6,clear,Forest
+23,Shillong04,25.65,91.88,5m - 25m,optical,11/06/2026,Pre-Monsoon,60,cloudy,Water bodies
+24,Shillong04,25.65,91.88,5m - 25m,optical,19/062026,Summer,0.9,clear,Water bodies
+25,Itanagar01,27.08,93.6,5m - 25m,optical,12/04/2026,Summer,92,cloudy,Agriculture
+26,Itanagar01,27.08,93.6,5m - 25m,optical,23/05/0206,Summer,2,clear,Agriculture
+27,Itanagar02,27.1,93.62,5m - 25m,optical,11/06/2026,Summer,82,cloudy,Urban
+28,Itanagar02,27.1,93.62,5m - 25m,optical,08/04/2026,Summer,0.4,clear,Urban
+29,Itanagar03,27.09,93.42,5m - 25m,optical,11/05/2026,Summer,80,cloudy,Forest
+30,Itanagar03,27.09,93.42,5m - 25m,optical,01/04/2026,Summer,0.6,clear,Forest
+31,Itanagar04,27.07,93.56,5m - 25m,optical,11/05/2026,Summer,85,cloudy,Water bodies
+32,Itanagar04,27.07,93.56,5m - 25m,optical,01/04/2026,Summer,0.4,clear,Water bodies
